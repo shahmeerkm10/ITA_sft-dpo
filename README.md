@@ -14,3 +14,5 @@ A project on SFT and DPO implementation of Tinly LLama 1.0
 DPO models: https://mega.nz/file/DxI1lDJI#gQok1RrzHaAN_vamD84SllgJumroj7Vilg_0UgYXiEM
 
 SFT models: https://mega.nz/file/61Az3KAY#MHT-1HPceZU_zY4MgWaOanCkiWR93T5QeVVHQbzFZco
+
+-Dataset citations can be found at the end of the report
