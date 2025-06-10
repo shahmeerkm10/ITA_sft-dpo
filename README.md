@@ -3,7 +3,7 @@ A project on SFT and DPO implementation of Tinly LLama 1.0
 
 -The responses i judged can be found in the appropriate word documents.
 
--The main report is Shahmeer_Khan-25156.docx which contains detail about the whole experiment.
+-The main report is Shahmeer_Khan-25156.docx/Shahmeer_Khan-25156.pdf which contains detail about the whole experiment.
 
 -For human evaluation i used dop-eval-1 and sft-eval, these files use CPU as i ran out of gpu access on kaggle, you can use gpu to speed things up.
 
