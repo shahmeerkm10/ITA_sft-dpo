@@ -12,4 +12,5 @@ A project on SFT and DPO implementation of Tinly LLama 1.0
 -Due to github upload limits the models were zipped and uploaded to the following Mega URLs:
 
 DPO models: https://mega.nz/file/DxI1lDJI#gQok1RrzHaAN_vamD84SllgJumroj7Vilg_0UgYXiEM
-SFT models: 
+
+SFT models: https://mega.nz/file/61Az3KAY#MHT-1HPceZU_zY4MgWaOanCkiWR93T5QeVVHQbzFZco
